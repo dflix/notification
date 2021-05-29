@@ -10,6 +10,8 @@ $novoemail->sendMail("Assunto de Teste", "<p> Este e email de teste </p>", "cont
 
 var_dump($novoemail);
 
+echo "outa informação";
+
 
 
 
